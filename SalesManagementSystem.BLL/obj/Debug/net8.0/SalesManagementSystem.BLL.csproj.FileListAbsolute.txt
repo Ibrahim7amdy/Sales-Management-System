@@ -1,0 +1,30 @@
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.BLL\obj\Debug\net8.0\SalesManagementSystem.BLL.csproj.AssemblyReference.cache
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.BLL\obj\Debug\net8.0\SalesManagementSystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.BLL\obj\Debug\net8.0\SalesManagementSystem.BLL.AssemblyInfoInputs.cache
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.BLL\obj\Debug\net8.0\SalesManagementSystem.BLL.AssemblyInfo.cs
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.BLL\obj\Debug\net8.0\SalesManagementSystem.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.BLL\bin\Debug\net8.0\SalesManagementSystem.BLL.deps.json
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.BLL\bin\Debug\net8.0\SalesManagementSystem.BLL.dll
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.BLL\bin\Debug\net8.0\SalesManagementSystem.BLL.pdb
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.BLL\bin\Debug\net8.0\SalesManagementSystem.DAL.dll
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.BLL\bin\Debug\net8.0\SalesManagementSystem.DAL.pdb
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.BLL\obj\Debug\net8.0\SalesMan.746F66C9.Up2Date
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.BLL\obj\Debug\net8.0\SalesManagementSystem.BLL.dll
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.BLL\obj\Debug\net8.0\refint\SalesManagementSystem.BLL.dll
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.BLL\obj\Debug\net8.0\SalesManagementSystem.BLL.pdb
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.BLL\obj\Debug\net8.0\ref\SalesManagementSystem.BLL.dll
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.BLL\bin\Debug\net8.0\SalesManagementSystem.BLL.deps.json
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.BLL\bin\Debug\net8.0\SalesManagementSystem.BLL.dll
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.BLL\bin\Debug\net8.0\SalesManagementSystem.BLL.pdb
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.BLL\bin\Debug\net8.0\SalesManagementSystem.DAL.dll
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.BLL\bin\Debug\net8.0\SalesManagementSystem.DAL.pdb
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.BLL\obj\Debug\net8.0\SalesManagementSystem.BLL.csproj.AssemblyReference.cache
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.BLL\obj\Debug\net8.0\SalesManagementSystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.BLL\obj\Debug\net8.0\SalesManagementSystem.BLL.AssemblyInfoInputs.cache
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.BLL\obj\Debug\net8.0\SalesManagementSystem.BLL.AssemblyInfo.cs
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.BLL\obj\Debug\net8.0\SalesManagementSystem.BLL.csproj.CoreCompileInputs.cache
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.BLL\obj\Debug\net8.0\SalesMan.746F66C9.Up2Date
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.BLL\obj\Debug\net8.0\SalesManagementSystem.BLL.dll
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.BLL\obj\Debug\net8.0\refint\SalesManagementSystem.BLL.dll
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.BLL\obj\Debug\net8.0\SalesManagementSystem.BLL.pdb
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.BLL\obj\Debug\net8.0\ref\SalesManagementSystem.BLL.dll

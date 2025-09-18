@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\7loul\\Downloads\\SalesManagementSystem Day3\\SalesManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\7loul\\Downloads\\SalesManagementSystem Day3\\SalesManagementSystem\\salesmanagementsystem.pl\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:salesmanagementsystem.pl\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\7loul\\Downloads\\SalesManagementSystem Day3\\SalesManagementSystem\\SalesManagementSystem.PL\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SalesManagementSystem.PL\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\7loul\\Downloads\\SalesManagementSystem Day3\\SalesManagementSystem\\salesmanagementsystem.pl\\salesforms\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:salesmanagementsystem.pl\\salesforms\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\7loul\\Downloads\\SalesManagementSystem Day3\\SalesManagementSystem\\SalesManagementSystem.PL\\SalesForms\\FrmCustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SalesManagementSystem.PL\\SalesForms\\FrmCustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\7loul\\Downloads\\SalesManagementSystem Day3\\SalesManagementSystem\\salesmanagementsystem.pl\\salesforms\\frmsaleorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:salesmanagementsystem.pl\\salesforms\\frmsaleorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\7loul\\Downloads\\SalesManagementSystem Day3\\SalesManagementSystem\\SalesManagementSystem.DAL\\Models\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SalesManagementSystem.DAL\\Models\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 323,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\7loul\\Downloads\\SalesManagementSystem Day3\\SalesManagementSystem\\SalesManagementSystem.PL\\MainForm.cs",
+              "RelativeDocumentMoniker": "SalesManagementSystem.PL\\MainForm.cs",
+              "ToolTip": "C:\\Users\\7loul\\Downloads\\SalesManagementSystem Day3\\SalesManagementSystem\\SalesManagementSystem.PL\\MainForm.cs",
+              "RelativeToolTip": "SalesManagementSystem.PL\\MainForm.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T18:50:51.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\7loul\\Downloads\\SalesManagementSystem Day3\\SalesManagementSystem\\SalesManagementSystem.PL\\MainForm.cs",
+              "RelativeDocumentMoniker": "SalesManagementSystem.PL\\MainForm.cs",
+              "ToolTip": "C:\\Users\\7loul\\Downloads\\SalesManagementSystem Day3\\SalesManagementSystem\\SalesManagementSystem.PL\\MainForm.cs [Design]",
+              "RelativeToolTip": "SalesManagementSystem.PL\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T18:50:32.632Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmCustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\7loul\\Downloads\\SalesManagementSystem Day3\\SalesManagementSystem\\SalesManagementSystem.PL\\SalesForms\\FrmCustomer.cs",
+              "RelativeDocumentMoniker": "SalesManagementSystem.PL\\SalesForms\\FrmCustomer.cs",
+              "ToolTip": "C:\\Users\\7loul\\Downloads\\SalesManagementSystem Day3\\SalesManagementSystem\\SalesManagementSystem.PL\\SalesForms\\FrmCustomer.cs [Design]",
+              "RelativeToolTip": "SalesManagementSystem.PL\\SalesForms\\FrmCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T18:48:52.55Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\7loul\\Downloads\\SalesManagementSystem Day3\\SalesManagementSystem\\SalesManagementSystem.PL\\SalesForms\\FrmCustomer.cs",
+              "RelativeDocumentMoniker": "SalesManagementSystem.PL\\SalesForms\\FrmCustomer.cs",
+              "ToolTip": "C:\\Users\\7loul\\Downloads\\SalesManagementSystem Day3\\SalesManagementSystem\\SalesManagementSystem.PL\\SalesForms\\FrmCustomer.cs",
+              "RelativeToolTip": "SalesManagementSystem.PL\\SalesForms\\FrmCustomer.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAowFkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T18:45:26.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmSaleOrder.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\7loul\\Downloads\\SalesManagementSystem Day3\\SalesManagementSystem\\SalesManagementSystem.PL\\SalesForms\\FrmSaleOrder.cs",
+              "RelativeDocumentMoniker": "SalesManagementSystem.PL\\SalesForms\\FrmSaleOrder.cs",
+              "ToolTip": "C:\\Users\\7loul\\Downloads\\SalesManagementSystem Day3\\SalesManagementSystem\\SalesManagementSystem.PL\\SalesForms\\FrmSaleOrder.cs [Design]",
+              "RelativeToolTip": "SalesManagementSystem.PL\\SalesForms\\FrmSaleOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T18:41:43.858Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\7loul\\Downloads\\SalesManagementSystem Day3\\SalesManagementSystem\\SalesManagementSystem.DAL\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "SalesManagementSystem.DAL\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\7loul\\Downloads\\SalesManagementSystem Day3\\SalesManagementSystem\\SalesManagementSystem.DAL\\Models\\Customer.cs",
+              "RelativeToolTip": "SalesManagementSystem.DAL\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T18:41:08.877Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 77,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

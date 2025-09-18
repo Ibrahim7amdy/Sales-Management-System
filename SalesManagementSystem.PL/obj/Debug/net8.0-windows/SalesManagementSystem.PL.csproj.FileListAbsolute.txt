@@ -1,0 +1,68 @@
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.PL\obj\Debug\net8.0-windows\SalesManagementSystem.PL.csproj.AssemblyReference.cache
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.PL\obj\Debug\net8.0-windows\SalesManagementSystem.PL.Properties.Resources.resources
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.PL\obj\Debug\net8.0-windows\SalesManagementSystem.PL.SalesForms.FrmCatgory.resources
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.PL\obj\Debug\net8.0-windows\SalesManagementSystem.PL.csproj.GenerateResource.cache
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.PL\obj\Debug\net8.0-windows\SalesManagementSystem.PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.PL\obj\Debug\net8.0-windows\SalesManagementSystem.PL.AssemblyInfoInputs.cache
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.PL\obj\Debug\net8.0-windows\SalesManagementSystem.PL.AssemblyInfo.cs
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.PL\obj\Debug\net8.0-windows\SalesManagementSystem.PL.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.PL\bin\Debug\net8.0-windows\SalesManagementSystem.PL.exe
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.PL\bin\Debug\net8.0-windows\SalesManagementSystem.PL.deps.json
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.PL\bin\Debug\net8.0-windows\SalesManagementSystem.PL.runtimeconfig.json
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.PL\bin\Debug\net8.0-windows\SalesManagementSystem.PL.dll
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.PL\bin\Debug\net8.0-windows\SalesManagementSystem.PL.pdb
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.PL\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.PL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.PL\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.PL\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.PL\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.PL\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.PL\bin\Debug\net8.0-windows\SalesManagementSystem.BLL.dll
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.PL\bin\Debug\net8.0-windows\SalesManagementSystem.DAL.dll
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.PL\bin\Debug\net8.0-windows\SalesManagementSystem.BLL.pdb
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.PL\bin\Debug\net8.0-windows\SalesManagementSystem.DAL.pdb
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.PL\obj\Debug\net8.0-windows\SalesMan.AC8856C6.Up2Date
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.PL\obj\Debug\net8.0-windows\SalesManagementSystem.PL.dll
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.PL\obj\Debug\net8.0-windows\refint\SalesManagementSystem.PL.dll
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.PL\obj\Debug\net8.0-windows\SalesManagementSystem.PL.pdb
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.PL\obj\Debug\net8.0-windows\SalesManagementSystem.PL.genruntimeconfig.cache
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.PL\obj\Debug\net8.0-windows\ref\SalesManagementSystem.PL.dll
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.PL\obj\Debug\net8.0-windows\SalesManagementSystem.PL.SalesForms.FrmProduct.resources
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.PL\obj\Debug\net8.0-windows\SalesManagementSystem.PL.MainForm.resources
+C:\Users\Mahmoud Alshahaly\source\repos\SalesManagementSystem\SalesManagementSystem.PL\obj\Debug\net8.0-windows\SalesManagementSystem.PL.SalesForms.FrmSaleOrder.resources
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.PL\bin\Debug\net8.0-windows\SalesManagementSystem.PL.exe
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.PL\bin\Debug\net8.0-windows\SalesManagementSystem.PL.deps.json
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.PL\bin\Debug\net8.0-windows\SalesManagementSystem.PL.runtimeconfig.json
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.PL\bin\Debug\net8.0-windows\SalesManagementSystem.PL.dll
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.PL\bin\Debug\net8.0-windows\SalesManagementSystem.PL.pdb
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.PL\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.PL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.PL\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.PL\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.PL\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.PL\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.PL\bin\Debug\net8.0-windows\SalesManagementSystem.BLL.dll
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.PL\bin\Debug\net8.0-windows\SalesManagementSystem.DAL.dll
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.PL\bin\Debug\net8.0-windows\SalesManagementSystem.BLL.pdb
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.PL\bin\Debug\net8.0-windows\SalesManagementSystem.DAL.pdb
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.PL\obj\Debug\net8.0-windows\SalesManagementSystem.PL.csproj.AssemblyReference.cache
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.PL\obj\Debug\net8.0-windows\SalesManagementSystem.PL.MainForm.resources
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.PL\obj\Debug\net8.0-windows\SalesManagementSystem.PL.Properties.Resources.resources
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.PL\obj\Debug\net8.0-windows\SalesManagementSystem.PL.SalesForms.FrmCatgory.resources
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.PL\obj\Debug\net8.0-windows\SalesManagementSystem.PL.SalesForms.FrmProduct.resources
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.PL\obj\Debug\net8.0-windows\SalesManagementSystem.PL.SalesForms.FrmSaleOrder.resources
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.PL\obj\Debug\net8.0-windows\SalesManagementSystem.PL.csproj.GenerateResource.cache
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.PL\obj\Debug\net8.0-windows\SalesManagementSystem.PL.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.PL\obj\Debug\net8.0-windows\SalesManagementSystem.PL.AssemblyInfoInputs.cache
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.PL\obj\Debug\net8.0-windows\SalesManagementSystem.PL.AssemblyInfo.cs
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.PL\obj\Debug\net8.0-windows\SalesManagementSystem.PL.csproj.CoreCompileInputs.cache
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.PL\obj\Debug\net8.0-windows\SalesMan.AC8856C6.Up2Date
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.PL\obj\Debug\net8.0-windows\SalesManagementSystem.PL.dll
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.PL\obj\Debug\net8.0-windows\refint\SalesManagementSystem.PL.dll
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.PL\obj\Debug\net8.0-windows\SalesManagementSystem.PL.pdb
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.PL\obj\Debug\net8.0-windows\SalesManagementSystem.PL.genruntimeconfig.cache
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.PL\obj\Debug\net8.0-windows\ref\SalesManagementSystem.PL.dll
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.PL\obj\Debug\net8.0-windows\SalesManagementSystem.PL.SalesForms.FrmSaleOrderReport.resources
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.PL\bin\Debug\net8.0-windows\Dapper.dll
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.PL\obj\Debug\net8.0-windows\SalesManagementSystem.PL.SalesForms.FrmStock.resources
+E:\New folder\Ado.Net Mahmoud\Day2\SalesManagementSystem\SalesManagementSystem.PL\obj\Debug\net8.0-windows\SalesManagementSystem.PL.SalesForms.FrmCustomer.resources

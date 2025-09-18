@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SalesManagementSystem.DAL",
+    "\\SalesManagementSystem.DAL\\Models",
+    "\\SalesManagementSystem.PL",
+    "\\SalesManagementSystem.PL\\SalesForms"
+  ],
+  "SelectedNode": "\\SalesManagementSystem.PL\\MainForm.cs",
+  "PreviewInSolutionExplorer": false
+}
